@@ -3,11 +3,8 @@
 Currently at ECE Paris engineering school.
 
 - 🔭 I’m currently working on the creation of website customized to the needs of companies, if you are interested, contact me here: contact.nexus.pro@gmail.com
-
 - 🌱 I’m currently learning Java, NodeJs
-- 
 - 📫 How to reach me: mail: rodolphetellier@gmail.com
-- 
 - ⚡ I'm making tutorials here: https://www.tiktok.com/@nexus_webcreator?lang=fr 
 
 <!--
