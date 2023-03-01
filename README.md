@@ -1,12 +1,18 @@
-### Hi there 👋, I'm Rodophe Tellier
+<h1 align="center"> Hi there 👋, I'm Rodophe Tellier </h1>
 
-Currently at ECE Paris engineering school.
+<h3 align="center">Currently at ECE Paris engineering school</h3>
 
-- 🔭 I’m currently working on the creation of website customized to the needs of companies, if you are interested, contact me here: contact.nexus.pro@gmail.com
-- 🌱 I’m currently learning Java, NodeJs
-- 📫 How to reach me: mail: rodolphetellier@gmail.com
-- ⚡ I'm making tutorials here: https://www.tiktok.com/@nexus_webcreator?lang=fr 
-
+  - 🔭 I’m working on developing customized websites for businesses. If you are interested, you can contact me at contact.nexus.pro@gmail.com
+  
+  - 🌱 I’m currently learning Java, NodeJs
+  
+  - 💬 Ask me about C++/C/HTML/CSS/JavaScript
+  
+  - 📫 How to reach me: rodolphetellier@gmail.com
+  
+  - ⚡ I'm making tutorials here: https://www.tiktok.com/@nexus_webcreator?lang=fr
+  
+<h1 align="center"> See ya ! <h1>
 <!--
 **Rh0dde/Rh0dde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
