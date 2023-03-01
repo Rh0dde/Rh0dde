@@ -2,6 +2,8 @@
 
 <h3 align="center">Currently at ECE Paris engineering school</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rh0dde&label=Profile%20views&color=0e75b6&style=flat" alt="Rh0dde" /> </p>
+
   - 🔭 I’m working on developing customized websites for businesses. If you are interested, you can contact me at contact.nexus.pro@gmail.com
   
   - 🌱 I’m currently learning Java, NodeJs
