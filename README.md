@@ -7,8 +7,9 @@ Je code également en parallèle un bot qui permet de détecter le fishing.
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Java
-- 💬 Ask me if you want a website : contact.nexus.pro@gmail.com
+- 💬 Ask me if you want a website: contact.nexus.pro@gmail.com
 - 📫 How to reach me: mail: rodolphetellier@gmail.com
+- ⚡ Fun fact: follow me on tiktok: https://www.tiktok.com/@nexus_webcreator?lang=fr 
 
 <!--
 **Rh0dde/Rh0dde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
