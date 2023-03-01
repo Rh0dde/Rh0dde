@@ -1,15 +1,14 @@
 ### Hi there 👋, I'm Rodophe Tellier
 
-Actuellement à l'ECE Paris école d'ingénieur.
+Currently at ECE Paris engineering school.
 
-Je travaille actuellement sur la création de site web adaptés pour les entreprises.
-Je code également en parallèle un bot qui permet de détecter le fishing.
+- 🔭 I’m currently working on the creation of website customized to the needs of companies, if you are interested, contact me here: contact.nexus.pro@gmail.com
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Java
-- 💬 Ask me if you want a website: contact.nexus.pro@gmail.com
+- 🌱 I’m currently learning Java, NodeJs
+- 
 - 📫 How to reach me: mail: rodolphetellier@gmail.com
-- ⚡ Fun fact: follow me on tiktok: https://www.tiktok.com/@nexus_webcreator?lang=fr 
+- 
+- ⚡ I'm making tutorials here: https://www.tiktok.com/@nexus_webcreator?lang=fr 
 
 <!--
 **Rh0dde/Rh0dde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
