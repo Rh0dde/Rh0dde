@@ -8,7 +8,7 @@
   
   - 🌱 I’m currently learning Java, NodeJs
   
-  - 💬 Ask me about C++/C/HTML/CSS/JavaScript
+  - 💬 Ask me about C++/C/HTML/CSS/JavaScript 
   
   - 📫 How to reach me: rodolphetellier@gmail.com
   
