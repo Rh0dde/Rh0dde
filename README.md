@@ -11,9 +11,7 @@
   - 💬 Ask me about C++/C/HTML/CSS/JavaScript 
   
   - 📫 How to reach me: rodolphetellier@gmail.com
-  
-  - ⚡ I'm making tutorials here: https://www.tiktok.com/@nexus_webcreator?lang=fr
-  
+    
 <h1 align="center"> See ya ! <h1>
 <!--
 **Rh0dde/Rh0dde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
